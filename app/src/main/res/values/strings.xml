@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">xPense</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="about">About</string>
+    <string name="total_balance">Total Balance:</string>
+</resources>
