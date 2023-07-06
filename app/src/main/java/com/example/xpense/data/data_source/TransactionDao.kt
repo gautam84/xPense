@@ -13,7 +13,6 @@ interface TransactionDao {
     @Update(onConflict = OnConflictStrategy.REPLACE)
     suspend fun updateTransaction(transaction: Transaction)
 
-
     @Query("SELECT * FROM transactions")
     fun getAllTransactions(): Flow<List<Transaction>>
 
