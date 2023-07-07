@@ -30,10 +30,6 @@ Home | Transactions | TransactionDetails | AddTransaction | About
     UI-related data that isn"t destroyed on UI changes.
   - [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation) - The
     Navigation component provides support for Jetpack Compose applications.
-  - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) - Jetpack
-    DataStore is a data storage solution that allows you to store key-value pairs or typed objects
-    with protocol buffers. DataStore uses Kotlin coroutines and Flow to store data asynchronously,
-    consistently, and transactionally.
 - [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - Hilt is a dependency injection library for Android that reduces the     boilerplate of doing manual dependency injection in your project. Doing manual dependency injection requires you to construct every class and its                 dependencies by hand, and to use containers to reuse and manage dependencies.
 - [Room](https://developer.android.com/training/data-storage/room) - The Room persistence library provides an abstraction layer over SQLite to allow fluent         database access while harnessing the full power of SQLite.
 - [Material Components for Android](https://github.com/material-components/material-components-android)
