@@ -9,6 +9,10 @@ Home | Transactions | TransactionDetails | AddTransaction | About
 ![](https://github.com/gautam84/xPense/blob/master/screenshots/Home.jpeg) | ![](https://github.com/gautam84/xPense/blob/master/screenshots/Transactions.jpeg) | ![](https://github.com/gautam84/xPense/blob/master/screenshots/TransactionDetails.jpeg) | ![](https://github.com/gautam84/xPense/blob/master/screenshots/AddTransaction.jpeg) | ![](https://github.com/gautam84/xPense/blob/master/screenshots/About.jpeg)
 
 
+## Demo 🎬
+
+[![Watch the demo](https://img.youtube.com/vi/dcjya6SWzd0/0.jpg)](https://www.youtube.com/watch?v=dcjya6SWzd0)
+
 ## Build With 🛠
 
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android
